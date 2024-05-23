@@ -7,7 +7,7 @@ import pandas as pd
 ####################################
 # Initial constants and variables
 MezLo = 60 # Nastavit
-MezHi = 100
+MezHi = 100 # Nastavit
 PseOKkoefabs = 2 # [MW]
 PseOKkoefproc = 2  # [%]
 Pinst = 500 # MW - instalovany vykon
