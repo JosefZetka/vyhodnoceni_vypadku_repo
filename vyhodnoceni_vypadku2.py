@@ -6,7 +6,7 @@ import pandas as pd
 #
 ####################################
 # Initial constants and variables
-MezLo = 60
+MezLo = 60 # Nastavit
 MezHi = 100
 PseOKkoefabs = 2 # [MW]
 PseOKkoefproc = 2  # [%]
